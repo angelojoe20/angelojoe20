@@ -24,6 +24,8 @@
 - ![Python Logo](https://img.icons8.com/color/48/000000/python--v1.png) Python
 - ![C++ Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo--v2.png) C++
 - ![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) Java
+- ![MySQL Logo](https://img.icons8.com/ios-filled/50/000000/mysql-logo.png) MySQL
+
 
 ## **Get in Touch**
 📧 Email: angelojoedelossantos20@gmail.com
