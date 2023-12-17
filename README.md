@@ -8,11 +8,13 @@
 <div style="background-color: black; color: white; padding: 40px; border-radius: 5px;">
 
 ## About Me
-- 👀 I'm interested in Web Development, AI/Machine Learning, and exploring new technologies.
-- 🌱 I'm currently learning HTML, JavaScript, Python, C++, and Java to expand my skill set.
-- 💞️ I'm open to collaborating with everyone on exciting projects.
-- 📫 You can reach me at angelojoedelossantos20@gmail.com
-  
+
+👀 **Interests:** I'm passionate about Web Development, AI/Machine Learning, and exploring new technologies.
+
+💞 **Collaboration:** I love collaborating on exciting projects and am open to new opportunities.
+
+📫 **Contact:** Feel free to reach out to me at my Email Address or Linkedin Account ✨.
+
 </div>
 
 ## Technologies I'm Familiar With
