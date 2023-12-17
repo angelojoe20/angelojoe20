@@ -15,13 +15,13 @@
   
 </div>
 
-## **Technologies I'm Familiar With**
-- HTML
-- CSS
-- JavaScript
-- Python
-- C++
-- Java
+## Technologies I'm Familiar With
+- ![HTML Logo](https://img.icons8.com/color/48/000000/html-5--v1.png) HTML
+- ![CSS Logo](https://img.icons8.com/color/48/000000/css3.png) CSS
+- ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript--v1.png) JavaScript
+- ![Python Logo](https://img.icons8.com/color/48/000000/python--v1.png) Python
+- ![C++ Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo--v2.png) C++
+- ![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) Java
 
 ## **Get in Touch**
 📧 Email: angelojoedelossantos20@gmail.com
