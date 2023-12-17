@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @angelojoe20
-- 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning HTML, JavaScript, Python, C++, Java
-- 💞️ I’m looking to collaborate on everyone 
-- 📫 How to reach me You can contact me at angelojoedelossantos20@gmail.com
+# Hi there, I'm Angelo Joe! 👋
 
-<!---
-angelojoe20/angelojoe20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate Web Developer enthusiastic about coding and creating web applications. Welcome to my GitHub profile!
+
+## About Me
+- 👀 I'm interested in Web Development and exploring new technologies.
+- 🌱 I'm currently learning HTML, JavaScript, Python, C++, and Java to expand my skill set.
+- 💞️ I'm open to collaborating with everyone on exciting projects.
+- 📫 You can reach me at angelojoedelossantos20@gmail.com
+
+## Technologies I'm Familiar With
+- HTML
+- CSS
+- JavaScript
+- Python
+- C++
+- Java
+
+## Get in Touch
+📧 Email: angelojoedelossantos20@gmail.com
+
+Let's connect and create something amazing together!
