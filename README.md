@@ -1,6 +1,6 @@
 # Hi there, I'm Angelo Joe! 👋
 
-I'm a passionate Web Developer enthusiastic about coding and creating web applications. Welcome to my GitHub profile!
+I'm a passionate Web Developer and  AI/Machine Learner enthusiastic about coding and creating web applications. Welcome to my GitHub profile!
 
 ## About Me
 - 👀 I'm interested in Web Development, AI/Machine Learning, and exploring new technologies.
