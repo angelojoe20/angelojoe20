@@ -3,7 +3,7 @@
 I'm a passionate Web Developer enthusiastic about coding and creating web applications. Welcome to my GitHub profile!
 
 ## About Me
-- 👀 I'm interested in Web Development and exploring new technologies.
+- 👀 I'm interested in Web Development, AI/Machine Learning, and exploring new technologies.
 - 🌱 I'm currently learning HTML, JavaScript, Python, C++, and Java to expand my skill set.
 - 💞️ I'm open to collaborating with everyone on exciting projects.
 - 📫 You can reach me at angelojoedelossantos20@gmail.com
