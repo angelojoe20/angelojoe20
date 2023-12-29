@@ -13,7 +13,7 @@
 
 💞 **Collaboration:** I love collaborating on exciting projects and am open to new opportunities.
 
-📫 **Contact:** Feel free to reach out to me at my Email Address or Linkedin Account ✨.
+📫 **Contact:** Feel free to contact me at my Email Address or LinkedIn account ✨.
 
 </div>
 
@@ -26,3 +26,9 @@
 🔗 LinkedIn: [Connect with me on LinkedIn](https://www.linkedin.com/in/angelo-joe-delos-santos-535627283/)
 
 Let's connect and create something amazing together!
+
+## Statistics
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/date_night/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/date_night/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/date_night/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/date_night/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/date_night/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
