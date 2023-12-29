@@ -1,6 +1,6 @@
 [![bg][banner]][website]
 
-[banner]: https://img.shields.io/badge/-Hi%20there,%20I'm%20Angelo%20Joe!%20👋-000000?style=for-the-badge&labelColor=000000&logo=none&logoColor=white&color=black&labelWidth=10000
+[banner]: https://img.shields.io/badge/-Hi%20there,%20I'm%20Angelo%20Joe!%20👋-000000?style=for-the-badge&labelColor=000000&logo=none&logoColor=white&color=black&labelWidth=1000%
 [website]: #
 
 ## I'm a passionate Web Developer and AI/Machine Learner enthusiastic about coding and creating web applications. Welcome to my GitHub profile!
