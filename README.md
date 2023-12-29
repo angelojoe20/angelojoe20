@@ -28,4 +28,5 @@
 Let's connect and create something amazing together!
 
 ## Statistics
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelojoe20&theme=dark&show_icons=true)
+![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelojoe20&layout=compact&theme=dark&show_icons=true)
