@@ -8,9 +8,6 @@
 <div style="background-color: black; color: white; padding: 40px; border-radius: 5px;">
 
 ## About Me
-
-👀 **Interests:** I'm passionate about Web Development, AI/Machine Learning, and exploring new technologies.
-
 💞 **Collaboration:** I love collaborating on exciting projects and am open to new opportunities.
 
 📫 **Contact:** Feel free to contact me at my Email Address or LinkedIn account ✨.
