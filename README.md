@@ -1,21 +1,19 @@
-[![bg][banner]][website]
+[![profile_picture](https://github.com/angelojoe20/Github-Header/blob/aabf66d3110ecfade21d26ae5f17f4889c1bbd29/Drak%20Blue%20Modern%20Twitter%20Header.png?raw=true)][website]
 
-[banner]: https://img.shields.io/badge/-Hi%20there,%20I'm%20Angelo%20Joe!%20👋-000000?style=for-the-badge&labelColor=000000&logo=none&logoColor=white&color=black&labelWidth=1000%
 [website]: #
 
-## I'm a passionate Web Developer and Cloud Student enthusiastic about web application and creating cloud computation. Welcome to my GitHub profile!
+<div style="background-color: #1a202c; color: white; padding: 30px; border-radius: 10px;">
 
-<div style="background-color: black; color: white; padding: 40px; border-radius: 5px;">
-
-## About Me
-💞 **Collaboration:** I love collaborating on exciting projects and am open to new opportunities.
-
-📫 **Contact:** Feel free to contact me at my [Email Address](angelojoedelossantos20@gmail.com) or [Connect with me on LinkedIn](https://www.linkedin.com/in/angelo-joe-delos-santos-535627283/) ✨.
+## I'm a Computer Engineering student with a deep interest in full-stack development and a strong passion for continuous learning. Welcome to my GitHub profile!
 
 </div>
 
+### 📫 Contact me at 💻📱:
+[![Gmail Logo](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:angelojoedelossantos20@gmail.com)     [![LinkedIn Logo](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/angelo-joe-delos-santos-535627283/)    [![Google Developers Logo](https://img.icons8.com/color/48/000000/google-logo.png)](https://g.dev/angelojoe20)
+
 ## Technologies I'm Familiar With
-![HTML Logo](https://img.icons8.com/color/48/000000/html-5--v1.png) ![CSS Logo](https://img.icons8.com/color/48/000000/css3.png) ![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript--v1.png) ![Python Logo](https://img.icons8.com/color/48/000000/python--v1.png) ![C++ Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo--v2.png) ![C Logo](https://img.icons8.com/color/48/000000/c-programming.png) ![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) ![SQLite Logo](https://img.icons8.com/ios-filled/50/000000/sqlite.png) ![Jupyter Notebook Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/48px-Jupyter_logo.svg.png)
+[![HTML Logo](https://img.icons8.com/color/48/000000/html-5--v1.png)](https://www.w3.org/html/) [![CSS Logo](https://img.icons8.com/color/48/000000/css3.png)](https://www.w3.org/Style/CSS/Overview.en.html) [![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Python Logo](https://img.icons8.com/color/48/000000/python--v1.png)](https://www.python.org/) [![C++ Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo--v2.png)](https://www.cplusplus.com/) [![C Logo](https://img.icons8.com/color/48/000000/c-programming.png)](https://www.iso.org/c-language.html) [![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)](https://www.java.com/) [![SQLite Logo](https://img.icons8.com/ios-filled/48/000000/sqlite.png)](https://www.sqlite.org/index.html) [![Jupyter Notebook Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/48px-Jupyter_logo.svg.png)](https://jupyter.org/)
+
 
 ## Statistics
 ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelojoe20&theme=dark&show_icons=true)
