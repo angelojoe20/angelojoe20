@@ -12,7 +12,23 @@
 [![Gmail Logo](https://img.icons8.com/fluent/48/000000/gmail.png)](mailto:angelojoedelossantos20@gmail.com)  [![LinkedIn Logo](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/angelo-joe-delos-santos-535627283/)  [![Google Developers Logo](https://img.icons8.com/color/48/000000/google-logo.png)](https://g.dev/angelojoe20)
 
 ## Technologies I'm Familiar With
-[![HTML Logo](https://img.icons8.com/color/48/000000/html-5--v1.png)](https://www.w3.org/html/) [![CSS Logo](https://img.icons8.com/color/48/000000/css3.png)](https://www.w3.org/Style/CSS/Overview.en.html) [![JavaScript Logo](https://img.icons8.com/color/48/000000/javascript--v1.png)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![Python Logo](https://img.icons8.com/color/48/000000/python--v1.png)](https://www.python.org/) [![C++ Logo](https://img.icons8.com/color/48/000000/c-plus-plus-logo--v2.png)](https://www.cplusplus.com/) [![C Logo](https://img.icons8.com/color/48/000000/c-programming.png)](https://www.iso.org/c-language.html) [![Java Logo](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)](https://www.java.com/) [![SQLite Logo](https://img.icons8.com/ios-filled/48/000000/sqlite.png)](https://www.sqlite.org/index.html) [![Jupyter Notebook Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/48px-Jupyter_logo.svg.png)](https://jupyter.org/)
+
+[![HTML5 Logo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
+[![CSS3 Logo](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
+[![JavaScript Logo](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C++ Logo](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
+[![C Logo](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.iso.org/c-language.html)
+[![Java Logo](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com/)
+
+### Cloud Services
+[![AWS Logo](https://img.shields.io/badge/AWS-orange.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+
+### Databases
+[![SQLite Logo](https://img.icons8.com/ios-filled/48/000000/sqlite.png)](https://www.sqlite.org/index.html) 
+
+### Machine Learning
+[![Jupyter Notebook Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/48px-Jupyter_logo.svg.png)](https://jupyter.org/)
 
 
 ## Statistics
