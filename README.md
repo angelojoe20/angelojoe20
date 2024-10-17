@@ -32,5 +32,7 @@
 
 
 ## Statistics
-![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelojoe20&theme=dark&show_icons=true)
-![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelojoe20&layout=compact&theme=dark&show_icons=true)
+![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelojoe20&theme=transparent&show_icons=true)
+![Top Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=angelojoe20&layout=compact&theme=transparent&show_icons=true)
+
+
