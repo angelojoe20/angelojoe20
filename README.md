@@ -15,7 +15,6 @@
 
 [![HTML5 Logo](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.w3.org/html/)
 [![CSS3 Logo](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![JavaScript Logo](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![Python Logo](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C++ Logo](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/)
 [![C Logo](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.iso.org/c-language.html)
@@ -26,10 +25,12 @@
 
 ### Databases
 [![SQLite Logo](https://img.icons8.com/ios-filled/48/000000/sqlite.png)](https://www.sqlite.org/index.html) 
+[![MySQL Logo](https://img.icons8.com/ios-filled/48/000000/mysql-logo.png)](https://www.mysql.com/)
 
-### Machine Learning
-[![Jupyter Notebook Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/48px-Jupyter_logo.svg.png)](https://jupyter.org/)
-
+### Data Science
+<a href="https://pandas.pydata.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="Pandas Logo" width="50" height="50"/></a>
+<a href="https://matplotlib.org/"><img src="https://matplotlib.org/_static/images/logo2.svg" alt="Matplotlib Logo" width="50" height="50"/></a>
+<a href="https://scikit-learn.org/"><img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn Logo" width="55" height="25"/></a>
 
 ## Statistics
 ![Angelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=angelojoe20&theme=transparent&show_icons=true)
